@@ -1,0 +1,13 @@
+Before submission:
+[ ] Download train.csv from the official Kaggle competition and place it here.
+[ ] Install requirements.txt.
+[ ] Run train_model.py; confirm model.pkl exists and note test accuracy.
+[ ] Run online_inference.py.
+[ ] Run batch_inference.py; confirm batch_predictions.csv has 20 rows.
+[ ] Run streaming_inference.py; capture 10 outputs.
+[ ] Run uvicorn app:app --reload and test /health and /predict in /docs.
+[ ] Run client.py.
+[ ] Capture required screenshots.
+[ ] Fill in results in observations.md and export it as a brief PDF report.
+[ ] Upload all files, including generated model.pkl, CSV, screenshots, report PDF, and README to a public GitHub repository.
+[ ] Submit the repository URL using the faculty's Google Form.
